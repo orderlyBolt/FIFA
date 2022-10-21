@@ -1,4 +1,5 @@
-# FIFA
+# FIFA World cup 2022
+
 This is the FIFA 2022 World Cup schedule as CSV or a Google Sheet
 
 This is a structured single file view of the FIFA 2022 World Cup Schedule as CSV
